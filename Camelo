@@ -33,7 +33,7 @@
             background-color: #ffcc00; /* Amarelo */
         }
         .hero {
-            background-image: url("C:\Users\cleid\Downloads\foto1 (abelha).webp");
+            background-image: url('C:\Users\cleid\Downloads\index.html\imagem\SiteMel.jpg');
             background-size: cover;
             background-position: center;
             color: #fff;
